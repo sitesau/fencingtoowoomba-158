@@ -1,0 +1,22 @@
+{
+  "wheel_id": 884,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-158",
+  "project": "fencing-contractors-toowoomba-maintenance-697513208818ac1409365",
+  "parent_t1_ref": "fencingtoowoomba-014",
+  "node_role": "buffer",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba maintenance",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-maintenance-697513208818ac1409365/",
+  "tier": "T2",
+  "writeback_nonce": "7af1b2caf1492917",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/fencing-contractors-toowoomba-fencingtoowoomba-014/",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
